@@ -12,7 +12,7 @@
   * [2.3 XMLHttpRequest](2.-ji-ben-guan-nian/2.3-ajax-tou-guo-xmlhttprequest.md)
   * [2.4 關於跨網域](2.-ji-ben-guan-nian/2.4-guan-wu-kua-wang-yu.md)
   * [2.5 新語法 - Fetch](2.-ji-ben-guan-nian/2.5-xin-yu-fa-fetch.md)
-* [3. jQuery AJAX](3.-di-yi-ge-jquery-ajax/README.md)
+* [3 jQuery AJAX](3.-di-yi-ge-jquery-ajax/README.md)
   * [3.1 傳送一般資料](3.-di-yi-ge-jquery-ajax/3.1-yi-ban-zi-liao.md)
   * [3.2 認識 Mixed Content 錯誤](3.-di-yi-ge-jquery-ajax/3.2-lian-xi-chuan-jie.md)
   * [3.3 傳送檔案類型](3.-di-yi-ge-jquery-ajax/3.3-chuan-song-dang-an-lei-xing.md)
