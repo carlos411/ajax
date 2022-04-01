@@ -19,4 +19,4 @@
   * [3.4 認識 HTTP Verb](3.-di-yi-ge-jquery-ajax/3.4-ren-shi-http-verb.md)
 * [4 作業](4.-zuo-ye.md)
 * [5 Fetch](5.-fetch.md)
-* [6. 參考資料](6.-can-kao-zi-liao.md)
+* [6 參考資料](6.-can-kao-zi-liao.md)
