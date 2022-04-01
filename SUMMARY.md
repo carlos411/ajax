@@ -1,7 +1,7 @@
 # Table of contents
 
 * [AJAX 課程](README.md)
-* [1. 簡介](1.-jian-jie/README.md)
+* [1 簡介](1.-jian-jie/README.md)
   * [1.1 講者簡介](1.-jian-jie/1.1-jiang-zhe-jian-jie.md)
   * [1.2 課程簡介](1.-jian-jie/1.2-ke-cheng-jian-jie.md)
   * [1.3 開發工具簡介](1.-jian-jie/1.3-kai-fa-gong-ju-jian-jie.md)
