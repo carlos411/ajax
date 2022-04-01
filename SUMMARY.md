@@ -6,7 +6,7 @@
   * [1.2 課程簡介](1.-jian-jie/1.2-ke-cheng-jian-jie.md)
   * [1.3 開發工具簡介](1.-jian-jie/1.3-kai-fa-gong-ju-jian-jie.md)
   * [1.4 簡介 AJAX 及前置](1.-jian-jie/1.4-jian-jie-jquery-ajax-ji-qian-zhi.md)
-* [2. 基本觀念](2.-ji-ben-guan-nian/README.md)
+* [2 基本觀念](2.-ji-ben-guan-nian/README.md)
   * [2.1 Client-Server 觀念](2.-ji-ben-guan-nian/2.1-clientserver-guan-nian.md)
   * [2.2 資料格式](2.-ji-ben-guan-nian/2.2-zi-liao-ge-shi.md)
   * [2.3 XMLHttpRequest](2.-ji-ben-guan-nian/2.3-ajax-tou-guo-xmlhttprequest.md)
