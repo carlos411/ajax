@@ -18,5 +18,5 @@
   * [3.3 傳送檔案類型](3.-di-yi-ge-jquery-ajax/3.3-chuan-song-dang-an-lei-xing.md)
   * [3.4 認識 HTTP Verb](3.-di-yi-ge-jquery-ajax/3.4-ren-shi-http-verb.md)
 * [4 作業](4.-zuo-ye.md)
-* [5 作業提供改成 Fetch 的寫法](5.-fetch.md)
+* [5 作業改成 Fetch 的寫法](5.-fetch.md)
 * [6 參考資料](6.-can-kao-zi-liao.md)
