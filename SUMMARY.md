@@ -14,6 +14,7 @@
 * [3 XMLHttpRequest](2.3-ajax-tou-guo-xmlhttprequest/README.md)
   * [3.1 傳送一般資料](2.3-ajax-tou-guo-xmlhttprequest/3.1-chuan-song-yi-ban-zi-liao.md)
   * [3.2 傳送檔案資料](2.3-ajax-tou-guo-xmlhttprequest/3.2-chuan-song-dang-an-zi-liao.md)
+  * [3.2 傳送檔案資料2](2.3-ajax-tou-guo-xmlhttprequest/3.2-chuan-song-dang-an-zi-liao-2.md)
 * [4 Fetch](2.5-xin-yu-fa-fetch/README.md)
   * [4.1 語法](2.5-xin-yu-fa-fetch/4.1-yu-fa.md)
   * [4.2 傳送一般資料](2.5-xin-yu-fa-fetch/4.2-chuan-song-yi-ban-zi-liao.md)
