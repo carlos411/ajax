@@ -21,6 +21,7 @@
 * [5 jQuery AJAX](3.-di-yi-ge-jquery-ajax/README.md)
   * [5.1 語法](3.-di-yi-ge-jquery-ajax/3.1-yi-ban-zi-liao.md)
   * [5.2 傳送一般資料](3.-di-yi-ge-jquery-ajax/3.2-lian-xi-chuan-jie.md)
+  * [5.2 傳送一般資料2](3.-di-yi-ge-jquery-ajax/3.2-lian-xi-chuan-jie-1.md)
   * [5.3 傳送檔案資料](3.-di-yi-ge-jquery-ajax/3.3-chuan-song-dang-an-lei-xing.md)
 * [6 作業](4.-zuo-ye.md)
 * [7 參考資料](6.-can-kao-zi-liao.md)
