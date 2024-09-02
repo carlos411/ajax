@@ -8,7 +8,7 @@ Font Awesome 提供的 loading icon 原始碼：
 
 
 
-## 範例 1：一般按鈕
+## 範例 1：一般按鈕 ajax
 
 {% embed url="https://codepen.io/carlos411/pen/LYKgVbz" %}
 
