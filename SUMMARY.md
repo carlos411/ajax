@@ -18,5 +18,6 @@
   * [4.1 語法](2.5-xin-yu-fa-fetch/4.1-yu-fa.md)
   * [4.2 傳送一般資料](2.5-xin-yu-fa-fetch/4.2-chuan-song-yi-ban-zi-liao.md)
   * [4.3 傳送檔案資料](2.5-xin-yu-fa-fetch/4.3-chuan-song-dang-an-zi-liao.md)
-* [5 作業](4.-zuo-ye.md)
-* [6 參考資料](6.-can-kao-zi-liao.md)
+* [5 介面](5-jie-mian.md)
+* [6 作業](4.-zuo-ye.md)
+* [7 參考資料](6.-can-kao-zi-liao.md)
